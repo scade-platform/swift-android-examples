@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-java",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scade-platform/swift-java.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6b2cf43f63cc5959978caee931c487d07f7d9c03"
+      }
+    }
+  ],
+  "version" : 2
+}
