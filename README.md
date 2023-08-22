@@ -1,5 +1,7 @@
 # Using Swift PM libraries in the Android Studio projects
 
+![alt text](/images/article_image1.png)
+
 
 This repository contains the Swift Examples Application, which provides a concise overview of how to integrate Swift code into an Android Studio project using the SCADE toolchain. It highlights the steps to set up the development environment, create a new project, add Swift code, and interact between Swift and Java. Additionally, it briefly introduces the `swift-java` library for simplified Java-Swift interaction.
 
