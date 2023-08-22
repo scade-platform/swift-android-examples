@@ -24,9 +24,14 @@ The SCADE toolchain enables Swift support on Android, allowing developers to exe
 
 ## Conclusion
 
-This README provides a concise guide to integrating Swift into Android Studio projects using the SCADE toolchain. With SCADE, you can seamlessly leverage the power of Swift on the Android platform and achieve cross-platform code sharing. If you're looking to simplify Java-Swift interaction, the `swift-java` library offers a powerful solution. Unlock the potential of Swift on Android and streamline your development process today.
+This article provides a concise guide to integrating Swift into Android Studio projects using the SCADE toolchain. With SCADE, you can seamlessly leverage the power of Swift on the Android platform and achieve cross-platform code sharing. If you're looking to simplify Java-Swift interaction, the `swift-java` library offers a powerful solution. Unlock the potential of Swift on Android and streamline your development process today.
 
 [Original Article Link](https://medium.com/@SCADE/using-swift-pm-libraries-in-the-android-studio-projects-7cef47c300bf)
+
+## Contribution
+
+<p>Consider contributing by creating a pull request (PR) or opening an issue. By creating an issue, you can alert the repository's maintainers to any bugs or missing documentation you've found. 🐛📝 If you're feeling confident and want to make a bigger impact, creating a PR, can be a great way to help others. 📖💡 Remember, contributing to open source is a collaborative effort, and any contribution, big or small, is always appreciated! 🙌 So why not take the first step and start contributing today? 😊</p>
+
 
 ---
 
